@@ -2,7 +2,7 @@
 
 ## Basic
 
-* **** Write a query to display customer full name with their title (Mr/Ms), both first name and last name in upper case, customer email id, customer creation date and display the customer's category after applying the categorization rules below:
+** Write a query to display customer full name with their title (Mr/Ms), both first name and last name in upper case, customer email id, customer creation date and display the customer's category after applying the categorization rules below:
   * If customer creation date year < 2005, then Category A
   * If customer creation date year >= 2005 and < 2011, then Category B
   * If customer creation date year >= 2011, then Category C
